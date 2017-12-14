@@ -2,4 +2,4 @@
 
 Graphical User Interface Final Project
 
-Declaration of Intent to Graduate(DIG) form Genterator
+Declaration of Intent to Graduate(DIG) Form Genterator
