@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 9, 2017, 3:45:17 AM
+    Author     : lovinadelph
+*/
+
+#test{
+
+      background-image: url(VKTPd2M.jpg);
+      background-repeat: repeat;
+      background-position: left top;
+      padding-top:68px;
+      margin-bottom:50px;
+    
+}
+
+#DIG_head{
+    margin: auto;
+}
+
+#DIGform{
+    display: none;
+}
+
+#header1{
+    color: whitesmoke;
+}
+
+#header_help {
+    color: white;
+}
+
+#form_style {
+    padding-bottom: 30px;
+    padding-left: 150px;
+}
