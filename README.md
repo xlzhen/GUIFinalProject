@@ -1,4 +1,4 @@
-# GUIFinalProject @xzhen @lov1 
+# GUIFinalProject @xlzhen @lov1 
 
 Graphical User Interface Final Project
 
